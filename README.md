@@ -42,7 +42,7 @@
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-**🖥️ Development (Practice Projects)**  
+**🖥️ Development (Deployment Practice Projects)**  
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" /></a>
@@ -63,17 +63,18 @@
 
 ### 🔹 Early Projects (Frontend Practice)
 - [netflix](https://github.com/Maksud-Husen/netflix) – Netflix clone (HTML & CSS)
-- [web-project](https://github.com/Maksud-Husen/web-project) – Static website
 - [MC-Card](https://github.com/Maksud-Husen/MC-Card) – Responsive card design
-- [1st-Project](https://github.com/Maksud-Husen/1st-Project) – First HTML/CSS project  
-
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maksud-Husen&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=false&hide_rank=false&bg_color=00000000&title_color=FFDD00&icon_color=FF5733" style="margin-bottom:10px; border-radius:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maksud-Husen&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" />
+  
+  <!-- Streak Stats as animated-looking bars -->
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maksud-Husen&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&animation=slow" style="margin-bottom:10px; border-radius:10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maksud-Husen&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="margin-bottom:10px; border-radius:10px;" />
+  
+  <!-- GitHub Trophy Cards -->
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Maksud-Husen&theme=radical&no-bg=true&margin-w=10&margin-h=10" style="border-radius:10px;" />
 </p>
@@ -83,7 +84,6 @@
 ## 📚 Currently Learning
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Asterisk-F68D2E?logo=asterisk&logoColor=white&style=for-the-badge&animation=pop" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kubernetes_Advanced-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge&animation=pop" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?logo=githubactions&logoColor=white&style=for-the-badge&animation=pop" /></a>
 </p>
 
