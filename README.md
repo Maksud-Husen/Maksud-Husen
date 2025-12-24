@@ -60,11 +60,11 @@
 - [laravel-blog-project-for-devops-deployment-project](https://github.com/Maksud-Husen/laravel-blog-project-for-devops-deployment-project) – Laravel blog app deployed with **Docker, Jenkins & Ansible**
 - [angular-laravel-todo-app](https://github.com/Maksud-Husen/angular-laravel-todo-app) – Full-stack TODO app deployed with **Docker Compose & Ansible**
 - [redbus-kubernetes-conf](https://github.com/Maksud-Husen/redbus-kubernetes-conf) – Kubernetes configs for deploying RedBus-like app
-- [sample-todo](https://github.com/Maksud-Husen/sample-todo) – Basic TODO app deployment practice
+- [MakBlog](https://github.com/Maksud-Husen/makblog) - Blog site (using react and djnago) and contenarization 
 
 ### 🔹 Early Projects (Frontend Practice)
 - [netflix](https://github.com/Maksud-Husen/netflix) – Netflix clone (HTML & CSS)
-- [MC-Card](https://github.com/Maksud-Husen/MC-Card) – Responsive card design
+- [MakBlog](https://github.com/Maksud-Husen/makblog) - Blog site and contenarization 
 ---
 
 ## 📊 GitHub Analytics
